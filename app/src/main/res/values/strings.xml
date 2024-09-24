@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">.PhotoGalleryApplication</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_failed">Failed</string>
+    <string name="retry">Retry</string>
+    <string name="title">Photo Gallery</string>
+</resources>
